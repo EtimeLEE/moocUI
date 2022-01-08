@@ -4,7 +4,7 @@
 
 ### 示例
 
-<m-card imgSrc="/logo.png" summary="summary22222222222222222222222" :width="500" />
+<m-card imgSrc="/moocUI/logo.png" summary="summary22222222222222222222222" :width="500" />
 
 ### 代码
 
